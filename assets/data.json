@@ -1,0 +1,31 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Essential Baku Walking Tour",
+      "create": "FlyAir",
+      "content": "This is 3 hours original walking tour of Baku",
+      "img": "photo/Baku-1.jpg",
+      "price": "Free"
+    },
+    {
+      "id": 2,
+      "name": "Old and Modern Baku Tour ( Day & Night Time)",
+      "create": "FlyAir",
+      "content": "Take a tour of Baku by night, and discover the city’s contemporary architecture, illuminated monuments, and traditional food. After starting in Baku Old City for a traditional Azerbaijan dinner, you’ll hop in a minivan for a panoramic nighttime tour of the sights. Look out for highlights such as the Maiden’s Tower and the city walls, and enjoy photo stops at the Heydar Aliyev Cultural Center and Upland Park as you learn about the city from a local guide.",
+      "img": "photo/Baku-2.jpg",
+      "price": "25$"
+
+    },
+    {
+      "id": 3,
+      "name": "Baku Old City Tour",
+      "create": "FlyAir",
+      "content": "Make the most of your time in Baku and get your bearings for further sightseeing with this shared tour around Baku Old City. Learn about the historical center’s rich past as your guide takes you to see the city’s main attractions, such as Shirvanshah Palace, the Maiden Tower, and Juma Mosque, although entrance fees to attractions are not included. This small-group tour is limited to 12 participants.",
+      "img": "photo/Baku-3.jpg",
+      "price": "19$"
+
+    }
+  ]
+
+}
